@@ -1,4 +1,2 @@
-.jsonp?callback=test
-.jsonp
-?callback=test
-?jsonp=test
+?callback=x&cb=x&jsonp=x&jsonpcallback=x&jsonpcb=x&jsonp_cb=x&json=x&jsoncallback=x&jcb=x&call=x&cb_=x&_cb_=x
+.jsonp?callback=x&cb=x&jsonp=x&jsonpcallback=x&jsonpcb=x&jsonp_cb=x&json=x&jsoncallback=x&jcb=x&call=x&cb_=x&_cb_=x
